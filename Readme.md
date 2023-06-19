@@ -5,6 +5,12 @@
 - https://annak225.github.io/portfoliosite/
 - https://annak225.github.io/active-box/
 - https://annak225.github.io/nerds/
+- https://annak225.github.io/slider1/
+- https://annak225.github.io/drag-drop/
+- https://annak225.github.io/slider3/
+- https://annak225.github.io/game1/
+- https://annak225.github.io/game2/
+- https://annak225.github.io/game3/
 
 ## React ##
 
