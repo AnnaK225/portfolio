@@ -2,6 +2,7 @@
 
 ## WordPress
 - http://pilomaterialy-nesvizh.by/
+- http://kirpich-nesvizh.by/
 
 ## HTML,CSS,JS ##
 
