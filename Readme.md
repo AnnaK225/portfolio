@@ -3,6 +3,7 @@
 ## WordPress
 - http://pilomaterialy-nesvizh.by/
 - http://kirpich-nesvizh.by/
+- metallprofil-nesvizh.by
 
 ## HTML,CSS,JS ##
 
