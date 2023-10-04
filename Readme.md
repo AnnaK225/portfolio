@@ -3,7 +3,8 @@
 ## WordPress
 - http://pilomaterialy-nesvizh.by/
 - http://kirpich-nesvizh.by/
-- http://metallprofil-nesvizh.by
+- http://metallprofil-nesvizh.by/
+- http://krovlya-nesvizh.by/
 
 ## HTML,CSS,JS ##
 
