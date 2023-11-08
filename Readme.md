@@ -5,6 +5,8 @@
 - http://kirpich-nesvizh.by/
 - http://metallprofil-nesvizh.by/
 - http://krovlya-nesvizh.by/
+- http://mir-stroy.by/
+- http://metallo-rez.ru/
 
 ## HTML,CSS,JS ##
 
