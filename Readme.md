@@ -7,6 +7,9 @@
 - http://krovlya-nesvizh.by/
 - http://mir-stroy.by/
 - http://metallo-rez.ru/
+- http://mir-krysh.by/
+- http://zabor-nesvizh.by/
+ 
 
 ## HTML,CSS,JS ##
 
